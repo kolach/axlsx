@@ -1,5 +1,7 @@
 CHANGELOG
 ---------
+- **December.21.12**: 1.3.6
+  - Fixes the bgColor handling: https://github.com/randym/axlsx/commit/f8fba202f3943610ae679cdef8e223dc556be24b
 
 - **September.30.12**: 1.3.1
   - Improved control character handling
